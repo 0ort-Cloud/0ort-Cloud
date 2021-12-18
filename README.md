@@ -1,4 +1,4 @@
-### HyeonSoo Jeong / 0ort-Cloud / 2002 👋
+### / 0ort-Cloud /  Hyeon-Soo Jeong / 2002 �
 - 🔭 Major: AI CONVERGENCE
 <!--
 **0ort-Cloud/0ort-Cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
